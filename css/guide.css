@@ -1,0 +1,31 @@
+@import url(main.css);
+.giftcard-types {
+	display: block;
+}
+#explanation {
+	width: 80%;
+	direction: rtl;
+	height: 440px;
+    overflow: auto;
+	padding: 20px 0;
+	padding-right: 15px;
+	box-sizing: border-box;
+}
+#explanation a {
+	color: blue;
+	text-decoration: underline;
+}
+#explanation p {
+	margin: 0;
+}
+#explanation > div {
+	display: none;
+}
+#explanation > div:first-child {
+	display: block;
+}
+@media screen and (max-width: 600px) {
+	#explanation {
+		width: 100%;
+	}
+}

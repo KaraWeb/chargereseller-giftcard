@@ -1,0 +1,86 @@
+@import url(main.css);
+#payment-content {
+	width: 100%;
+	margin: 0 auto;
+	padding: 20px 13%;
+	font-family: "IRANSans";
+	box-sizing: border-box;
+}
+.success, .failed {
+	width: 90%;
+	margin: 0 auto;
+	border: 1px solid #555555;
+	box-shadow: 0 0 2px 1px #888888, inset 0 0 4px #000000;
+	border-radius: 5px;
+	padding: 4% 30px;
+	box-sizing: border-box;
+}
+.success-message, .failed-message {
+	float: right;
+	width: 50%;
+	padding-right: 1%;
+	box-sizing: border-box;
+}
+.success-message, .failed-message, ul {
+	direction: rtl;
+}
+ul {
+	padding:0;
+}
+p {
+	margin: 0;
+}
+.failed-message h1 {
+	margin-bottom: 5px;
+}
+.failed-message h2 {
+	margin-top: 5px;
+	font-size: 21px;
+}
+.failed-message p {
+	width: 90%;
+}
+ul {
+	list-style-type: none;
+}
+.success-message h1 {
+	color: #00cc00;
+}
+.success-message li {
+	margin-bottom: 5px;
+	text-align: right;
+}
+.success-message li p, .success-message li span {
+	display: inline-block!important;
+	margin:0!important;
+}
+#hint, .failed-message h1 {
+	color: #ff0000;
+}
+#hint, .failed-message p {
+	text-align: justify;
+}
+#payment-content img {
+	width: 50%;
+	float: left;
+}
+@media screen and (max-width: 700px) {
+	#payment-content img {
+		float: none;
+		display: block;
+		margin: 0 auto;
+	}
+	.failed-message, .success-message {
+		width: 100%;
+		float: none;
+		height: auto;
+		text-align: -webkit-center;
+		background-position: 50% 3%!important;
+		margin: 0 auto;
+		padding: 0;
+	}
+	.failed-message p {
+		width: 100%;
+	    margin-top: 10px!important;
+	}
+}
