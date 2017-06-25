@@ -30,6 +30,8 @@
 						<img class="giftcard-types" data-giftcard-type="GooglePlay" src="img/GooglePlay.png">
 						<img class="giftcard-types" data-giftcard-type="XBox" src="img/XBox.png">
 						<img class="giftcard-types" data-giftcard-type="PlayStation" src="img/PlayStation.png">
+						<img class="giftcard-types" data-giftcard-type="Spotify" src="img/Spotify.png">
+						<img class="giftcard-types" data-giftcard-type="Steam" src="img/Steam.png">
 						<img class="giftcard-types" data-giftcard-type="PlayStationPlus" src="img/PlayStationPlus.png">
 						<img class="giftcard-types" data-giftcard-type="Microsoft" src="img/Microsoft.png">
 						<img class="giftcard-types" data-giftcard-type="Skype" src="img/Skype.png">
@@ -155,6 +157,36 @@
 						<p>4- سپس در صفحه باز شده در قسمت Country/region در صورتی که گیفت کارت اسکایپ ( skype ) استرالیا خرید کردید کشور استرالیا یا  اگر گیفت کارت اسکایپ ( skype ) آمریکا خرید کردید کشور آمریکا را انتخاب نمایید. تمامی گیفت کارتهای این فروشگاه محصول آمریکا بوده لذا باید کشور مورد نظر را آمریکا انتخاب نمائید.</p>
 						<p>5- در قسمت Unique number from voucher or card کد خریداری شده ا وارد نمایید و چک باکس I agree to the Skype Terms of Service را انتخاب نمایید و بر روی Redeem کلیک نمایید</p>
 						<p>با انجام مراحل فوق اعتبار خریداری شده فعال و می توانید از سرویس اسکایب استفاده نمائید.</p>
+					</div>
+					<div id="Steam">
+						<p><strong>نحوه استفاده از گیفت کارت </strong><strong> Steam</strong></p>
+						<p>قبل از شروع مراحل ، حتماً از آیپی معتبر آمریکا استفاده کنید در غیر اینصورت هنگام ریدیم کردن کدها اذیت خواهد کرد</p>
+						<p>1- &nbsp;ابتدا وارد سایت استیم شوید &nbsp;&nbsp; http://store.steampowered.com</p>
+						<p><strong>2</strong> <strong> - </strong> در قسمت بالای صفحه بر روی login کلیک کنید.</p>
+						<p><strong>3 - </strong> در صفحه باز شده اطلاعات اکانت استیم خود را وارد کرده و وارد سایت شوید . اگر تا کنون اکانتی نساخته اید گزینه join steam را انتخاب نموده و پس از ساخت اکانت به حساب کاربری خود وارد شوید.</p>
+						<p><strong>4 -</strong> پس از ورود به حساب کاربری از قسمت بالا سمت راست بر روی یوزرنیم خود کلیک کنید و وارد منوی Account Detail شوید. &nbsp;</p>
+						<p><strong>5 -</strong> سپس بر روی گزینه Add Founds To Your Steam Wallet کلیک کنید &nbsp;</p>
+						<p><strong>6 -</strong>در این مرحله بر روی گزینه Redeem a Steam Wallet Code که در سمت راست قرار دارد کلیک کنید &nbsp;</p>
+						<p><strong>7 -</strong>اکنون کد گیفت کارت خریداری شده را در کادر steam wallet code وارد نموده و بر روی continue کلیک کنید. &nbsp;</p>
+						<p><strong>8 -</strong>در صورتی که برای اولین بار قصد استفاده از گیفت کارت استیم را دارید اطلاعات محل سکونت آمریکا از شما در خواست میشود. &nbsp;</p>
+						<p><strong>نحوه پیدا کردن آدرس آمریکا </strong>&nbsp;</p>
+						<p>۱ – وارد نقشه گوگل به آدرس روبرو بشید &nbsp;<a href="http://maps.google.com/">maps.google.com</a></p>
+						<p>۲ – در نوار جست و جوی بالا سمت چپ اسم یک شهر آمریکای مثلا New York رو وارد کنید .</p>
+						<p>۳ – بعد از اینکه نقشه شهر لود شده به داخل شهر زوم کنید تا خیابان ها رو به راحتی ببینید .</p>
+						<p>۴ – بر روی نقشه بر روی آیکون یک رستوران ٬‌ مدرسه ٬ هتل و … کلیک کنید (‌ اگر آیکون ها رو نمی بینید بیشتر روی نقشه زوم کنید و کمی صبر کنید )</p>
+						<p>۵ – بعد از کلیک بر روی یکی از آیکون ها آدرس کامل و شماره تماس برای شما نشان داده می شود که آن را در کادرهای مربوطه وارد کنید . در نهایت بعد از پر کردن فرم بر روی continue کلیک کنید.<br /></p>
+						<p><strong>9 -</strong>در پایان بعد از Redeem کردن مبلغ گیفت کارت برای شما قابل استفاده خواهد شد. موفق باشید. &nbsp;</p>
+					</div>
+					<div id="Spotify">
+						<p><strong>نحوه استفاده از گیفت کارت </strong><strong> Spotify</strong></p>
+						<p>قبل از شروع مراحل ، حتماً از آیپی معتبر آمریکا استفاده کنید در غیر اینصورت هنگام ریدیم کردن کدها اذیت خواهد کرد</p>
+						<p>1- &nbsp;ابتدا وارد سایت اسپاتیفای شوید &nbsp;&nbsp; https://www.spotify.com</p>
+						<p><strong>2</strong> <strong> - </strong> در قسمت بالای صفحه بر روی login کلیک کنید.</p>
+						<p><strong>3 - </strong> در پنجره باز شده نام کاربری و پسورد خود را وارد کنید. &nbsp;</p>
+						<p><strong>4 - </strong>پس از ورود به ناحیه کاربری اطمینان حاصل کنید که کشور (‌ Country ) اکانت شما که در پایین نوار منو در سمت چپ نشان داده شده آمریکا باشد . سپس برای وارد کردن کد گیفت کارت بر روی عبارت Redeem کلیک کنید .</p>
+						<p><strong>5 -</strong> در صفحه وارد شده کد گیفت کارتی که خریداری کرده اید را وارد کرده و بر روی دکمه Redeem کلیک کنید . &nbsp;</p>
+						<p><strong>6 -</strong>پس از کلیک بر روی دکمه Redeem باید یکی از اکانت های ویژه اسپاتیفای را انتخاب کنید تا اکانت شما از حالت رایگان به حالت ویژه تغییر حالت دهد . اکانت های Premium قابلیت دانلود آهنگ و گوش دادن به آن را در هنگام وصل نبودن به اینترنت را دارا می باشند همچنین با این اکانت می توانید با گوشی خود نیز از امکانات اکانت ویژه استفاده کنید . اکانت های Unlimited صرفا جهت گوش دادن آنلاین به آهنگ های انتخابی می باشد و قابلیت دانلود آهنگ و استفاده در موبایل را دارا نمی باشند . &nbsp;</p>
+						<p><strong>9 -</strong>پس از شارژ حساب کاربری خود می توانید از امکانات اسپاتیفای استفاده کنید . موفق باشید. &nbsp;</p>
 					</div>
 				</div>
 			<!-- </div> -->
