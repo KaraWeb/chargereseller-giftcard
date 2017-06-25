@@ -16,8 +16,8 @@
 	<body>
 			<div class="header">
 				<ul class="text-bar">
-					<li><a href="<?php echo $root; ?>" >خانه</li>
-					<li><a href="<?php echo $root . "/guide.php"; ?>" >راهنما</li>
+					<li><a href="<?php echo $root; ?>" >خانه</a></li>
+					<li><a href="<?php echo $root . "/guide.php"; ?>" >راهنما</a></li>
 					<li><a href="<?php echo $root . "/support.php"; ?>" >پشتیبانی</a></li>
 				</ul>
 				<div class="header-background"><div class="gift-shelf"></div><h1><?php echo $config['title']; ?></h1></div>
