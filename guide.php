@@ -26,13 +26,13 @@
 				<div class="sidebar">
 					<section class="image-container">
 						<img class="giftcard-types active" data-giftcard-type="iTunes" src="img/iTunes.png">
-						<img class="giftcard-types" data-giftcard-type="Amazon" src="img/Amazon.png">
 						<img class="giftcard-types" data-giftcard-type="GooglePlay" src="img/GooglePlay.png">
 						<img class="giftcard-types" data-giftcard-type="XBox" src="img/XBox.png">
 						<img class="giftcard-types" data-giftcard-type="PlayStation" src="img/PlayStation.png">
 						<img class="giftcard-types" data-giftcard-type="Spotify" src="img/Spotify.png">
 						<img class="giftcard-types" data-giftcard-type="Steam" src="img/Steam.png">
 						<img class="giftcard-types" data-giftcard-type="PlayStationPlus" src="img/PlayStationPlus.png">
+						<img class="giftcard-types" data-giftcard-type="Amazon" src="img/Amazon.png">
 						<img class="giftcard-types" data-giftcard-type="Microsoft" src="img/Microsoft.png">
 						<img class="giftcard-types" data-giftcard-type="Skype" src="img/Skype.png">
 						<div class="clear"></div>

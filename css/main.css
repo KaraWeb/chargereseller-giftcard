@@ -96,7 +96,7 @@ a:hover {
 	float: right;
 	background-color: #c5c5c3;
 	/* height: calc(100% - 200px); */
-	overflow: auto;
+	overflow-y: auto;
 }
 .image-container {
 	width: 60%;
