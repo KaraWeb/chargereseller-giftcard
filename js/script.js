@@ -4,13 +4,13 @@ $(document).ready(function(){
 	var giftCards;
 	var countBoxValue = parseInt($("#counter").val());
 	var price = 0;
-	if ($(window).outerWidth() < 640) {
+	if ($(window).outerWidth() < 641) {
 		$(".sidebar").css("height", "auto");
 	} else {
 		$(".sidebar, .load").css("height", height - headerHeight + "px");
 	}
 	$(window).resize(function() {
-		if ($(window).outerWidth() < 640) {
+		if ($(window).outerWidth() < 641) {
 			$(".sidebar").css("height", "auto");
 		} else {
 			$(".sidebar, .load").css("height", height - headerHeight + "px");
