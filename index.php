@@ -122,7 +122,7 @@
 			<input type="text" name="data[redirectUrl]" value="<?php echo $root . '/verify.php'; ?>">
 			<input type="text" name="data[issuer]" value="">
 			<input type="text" name="data[redirectToPage]" value="true">
-			<input type="text" name="data[scriptVersion]" value="Script">
+			<input type="text" name="data[scriptVersion]" value="Script-GC-1.0">
 			<input type="text" name="data[firstOutputType]" value="json">
 			<input type="text" name="data[secondOutputType]" value="get">
 		</form>
